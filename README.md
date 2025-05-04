@@ -118,7 +118,7 @@ Backend can be hosted using **Azure App Service** or any .NET-compatible hosting
 
 ## 📎 Related Links
 
-- [Live Demo (optional)](https://your-deployment-link.com)
+- [Live Demo (To Be Available soon)](https://your-deployment-link.com)
 - [Frontend Repository](https://github.com/CharuTamar/Hotel-Booking-Reservation-System)
 - [Backend Repository (if separate)](https://github.com/CharuTamar/Hotel-Booking-Reservation-System-API)
 
