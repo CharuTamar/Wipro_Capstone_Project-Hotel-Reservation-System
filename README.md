@@ -70,6 +70,12 @@ Backend can be hosted using **Azure App Service** or any .NET-compatible hosting
 ## 📸 Screenshots
 
 > ![image](https://github.com/user-attachments/assets/f1bcb64b-80cb-4f37-b129-9a4295f1afb7)
+>
+> ![image](https://github.com/user-attachments/assets/ddbba757-1550-4659-9e99-e29647c2a57a)
+>
+> ![image](https://github.com/user-attachments/assets/35a7984a-1d06-498e-890f-243a48b0d087)
+
+
 
 
 ---
