@@ -74,6 +74,33 @@ Backend can be hosted using **Azure App Service** or any .NET-compatible hosting
 > ![image](https://github.com/user-attachments/assets/ddbba757-1550-4659-9e99-e29647c2a57a)
 >
 > ![image](https://github.com/user-attachments/assets/35a7984a-1d06-498e-890f-243a48b0d087)
+>
+> ![image](https://github.com/user-attachments/assets/8e81e0fd-ce64-4c91-bb0e-983aae082db3)
+>
+> ![image](https://github.com/user-attachments/assets/0ec8653d-b881-430e-a414-acb70c648006)
+>
+> ![image](https://github.com/user-attachments/assets/5e00ce00-54b8-444a-b329-56ed69807573)
+>
+> ![image](https://github.com/user-attachments/assets/37b2b0fa-a00f-499a-82b2-02010b76b5fb)
+>
+> ![image](https://github.com/user-attachments/assets/9b1969df-7535-4682-b26a-71214f24da86)
+>
+> ![image](https://github.com/user-attachments/assets/6969ef1a-b5c6-4be3-a4e6-7fbf80f8408c)
+>
+> ![image](https://github.com/user-attachments/assets/20f32e35-d4f5-4d83-ba43-9d2824d6c5cf)
+>
+> ![image](https://github.com/user-attachments/assets/5c570cc7-dc9b-4f7a-88cc-7e8c17ab0ab9)
+>
+> ![image](https://github.com/user-attachments/assets/aa3d148c-a55b-474f-aa56-01ff5d1b2c38)
+
+
+
+
+
+
+
+
+
 
 
 
