@@ -69,7 +69,8 @@ Backend can be hosted using **Azure App Service** or any .NET-compatible hosting
 
 ## 📸 Screenshots
 
-> _Add screenshots here of your homepage, booking flow, admin dashboard, etc._
+> ![image](https://github.com/user-attachments/assets/f1bcb64b-80cb-4f37-b129-9a4295f1afb7)
+
 
 ---
 
